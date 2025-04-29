@@ -1,5 +1,3 @@
-# Excel-analytics-platform
-
 # 📊 Excel Analytics Platform – Backend
 
 This is the **backend** for the Excel Analytics Platform, a full-stack MERN application where users can upload Excel files, generate 2D/3D charts, download visualizations, and get smart insights (AI optional). The backend is built using **Node.js**, **Express**, and **MongoDB Atlas**.
